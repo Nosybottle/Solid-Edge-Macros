@@ -1,6 +1,6 @@
 Few macros I wrote over time.
 <br><br>
-### Orient steering wheel
+### Steering Wheel orientation
 Reorients steering wheel to either base coordinate system or to current view (X and Y will lay "flat on screen")
 <br><br>
 ### Replace model on draft
